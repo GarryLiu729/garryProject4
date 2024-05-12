@@ -15,7 +15,7 @@ export default function App() {
                 <Route path="/buy" exact element= {<Landingpage />}/>
                 <Route path="/sell" exact element= {<Landingpage />}/>
                 <Route path="/rent" exact element= {<Landingpage />}/>
-                <Route path="/" exact element= {<Landingpage />
+                <Route path="/" exact element= {<Landingpage />}/>
               </Routes>
           </div>
         </div>       
