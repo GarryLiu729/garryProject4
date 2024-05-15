@@ -7,12 +7,11 @@ Ant design
 
 NPM
 
-Install package
+--Install package
 npm install
 
-execute on development environment
+--execute on development environment
 npm run start
 
 http://Localhost:3000/
-npm install
-npm run start
+
